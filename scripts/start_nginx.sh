@@ -1,4 +1,4 @@
 #!/bin/bash
 
 sudo systemctl start nginx
-sudo systmectl status nginx
+sudo systmectl enable nginx
